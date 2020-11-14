@@ -1,0 +1,4 @@
+def someFunction():
+    pass
+
+someFunction()
